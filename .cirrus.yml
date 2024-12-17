@@ -19,5 +19,5 @@ task:
     - #git clone https://github.com/sksayz5/Build_Script.git -b main RMX1901 && cd RMX1901
     - #bash build.sh
 
-     curl -s https://raw.githubusercontent.com/sksayz5/build-script/refs/heads/main/build.sh | bash
-
+     #curl -s https://raw.githubusercontent.com/sksayz5/build-script/refs/heads/main/build.sh | bash
+      bash <(curl -sL https://github.com/sksayz5/build_script/raw/refs/heads/main/build.sh)
