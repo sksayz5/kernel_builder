@@ -20,4 +20,4 @@ task:
     - #bash build.sh
 
      #curl -s https://raw.githubusercontent.com/sksayz5/build-script/refs/heads/main/build.sh | bash
-      bash <(curl -sL https://github.com/sksayz5/build_script/raw/refs/heads/main/build.sh)
+      bash <(curl -sL https://github.com/sksayz5/build-script/raw/refs/heads/main/build.sh)
